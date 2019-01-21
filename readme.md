@@ -22,9 +22,7 @@ Weights for Deeplabv2, EDAnet, Tiny-FCN-4s are available.
 | EDAnet | 65.42% |  0.68 |[model](https://pan.baidu.com/s/1qb6UOpAItqkECZ4kf7pbjg) |
 |Tiny-FCN-4s|65.21% |  0.71 | [model](https://pan.baidu.com/s/1qb6UOpAItqkECZ4kf7pbjg) |
 
-## Demo
-from left to right :  tiny-FCN-4s, EDAnet, deeplabv2-res101, ground truth
-<img src='imgs/2.jpg' align="left" width=600>
+
 
 ##  How to use
 Test on your on images: test.py
@@ -34,3 +32,7 @@ Train your network: train_uni.py
 
 
 Prepare 4 parts datasets and show overlaps: /preprocess
+
+## Demo
+from left to right :  tiny-FCN-4s, EDAnet, deeplabv2-res101, ground truth
+<img src='imgs/2.jpg' align="left" width=600>
