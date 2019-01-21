@@ -25,7 +25,7 @@ Weights for Deeplabv2, EDAnet, Tiny-FCN-4s are available.
 
 
 ##  How to use
-Test on your on images: test.py
+Test on your own images: test.py
 
 
 Train your network: train_uni.py
