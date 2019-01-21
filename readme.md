@@ -36,3 +36,5 @@ Prepare 4 parts datasets and show overlaps: /preprocess
 ## Demo
 from left to right :  tiny-FCN-4s, EDAnet, deeplabv2-res101, ground truth
 <img src='imgs/2.jpg' align="left" width=600>
+
+<img src='imgs/1.jpg' align="left" width=600>
