@@ -2,6 +2,8 @@
 Human Parsing for Reid : human parsing networks trained on Look into Person dataset.
 LIP dataset has 20 body parts,while in this project we merge those 20 parts into 5 parts:
  background, head, upper-body, lower-body, shoes. 
+ 
+Input Size : 256 x 128
 
 # Version
 torch0.4.1
